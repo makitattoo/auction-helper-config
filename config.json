@@ -5,6 +5,7 @@
     "disableCalculator": false,
     "disableTimer": false,
     "disableFacebookNote": false,
-    "disablePriceMonitor": false
+    "disablePriceMonitor": false,
+    "disableLotInfo": false
   }
 }
