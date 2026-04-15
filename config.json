@@ -1,0 +1,10 @@
+{
+  "auctionHelper": {
+    "enabled": true,
+    "disableOverlay": false,
+    "disableCalculator": false,
+    "disableTimer": false,
+    "disableFacebookNote": false,
+    "disablePriceMonitor": false
+  }
+}
