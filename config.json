@@ -1,6 +1,6 @@
 {
   "auctionHelper": {
-    "enabled": true,
+    "enabled": false,
     "disableOverlay": false,
     "disableCalculator": false,
     "disableTimer": false,
