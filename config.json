@@ -2,9 +2,9 @@
   "auctionHelper": {
     "enabled": true,
     "disableOverlay": false,
-    "disableCalculator": true,
-    "disableTimer": true,
-    "disableFacebookNote": true,
-    "disablePriceMonitor": true
+    "disableCalculator": false,
+    "disableTimer": false,
+    "disableFacebookNote": false,
+    "disablePriceMonitor": false
   }
 }
